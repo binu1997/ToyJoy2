@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "421147205871",
+    "firebase_url": "https://toyjoy0101.firebaseio.com",
+    "project_id": "toyjoy0101",
+    "storage_bucket": "toyjoy0101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421147205871:android:b60510dd11d0c927a97b1a",
+        "android_client_info": {
+          "package_name": "com.example.toy_joy_01_01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421147205871-l1j51jjkhoan46t9qg5guganqgiqvhsj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.toy_joy_01_01",
+            "certificate_hash": "6627f56a6e1189581a1442be71a13d80936164c1"
+          }
+        },
+        {
+          "client_id": "421147205871-5javkabd853efal1b5dqlr19qhq7f3m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8rjhictxSSyfgtbJ8aVqriDmJpD4b7p0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421147205871-5javkabd853efal1b5dqlr19qhq7f3m9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
